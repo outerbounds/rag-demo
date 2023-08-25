@@ -1,3 +1,10 @@
+# Read this blog post for context: [Retrieval-Augmented Generation: How to Use Your Data to Guide LLMs](https://outerbounds.com/blog/retrieval-augmented-generation/) 
+
+<a href="https://outerbounds.com/blog/retrieval-augmented-generation/">
+<img style="display: block; float: left; max-width: 20%; height: auto; margin: auto; float: none!important;" src="images/cover.png"/>
+</a>
+
+
 # 📦  Setup
 
 ## With Conda, Mamba, or Micromamba
