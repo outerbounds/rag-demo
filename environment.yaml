@@ -1,0 +1,29 @@
+name: rag-demo
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pandas
+  - metaflow
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip:
+    - sentence-transformers
+    - openai
+    - lancedb
+    - python-frontmatter
+    - gitpython
+    - git+https://github.com/outerbounds/rag-demo
+    - python-slugify
+    - tldextract
+    - llama-index==0.8.0
+    - llama-cpp-python==0.1.77
+    - sentence-transformers
+    - openai
+    - llama-index
+    - lancedb
+    - pinecone-client[grpc]
+    - streamlit
+    # - fashion-clip
